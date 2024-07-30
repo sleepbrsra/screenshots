@@ -1,0 +1,3 @@
+*** requiments: ***
+scrot
+python
